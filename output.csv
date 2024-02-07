@@ -1,0 +1,380 @@
+Class Nbr,Subj,CRS,,Course Title,SBC,Cmp,Sctn,Credits,Days,Start Time,End Time,Room,Instructor
+56458,AMS,104,Introduction to Spreadsheets,,"QPS, TECH",LEC,90,3,MW,2:00 PM,3:20 PM,B105,Kangmin Cho
+52114,AMS,151,Applied Calculus I,,QPS,LEC,90,3,MW,2:00 PM,3:20 PM,A211,Young-Seon Lee
+52213,AMS,151,Applied Calculus I,,QPS,LEC,91,3,TUTH,3:30 PM,4:50 PM,C107,Kazem Mahdavi
+52115,AMS,161,Applied Calculus II,,QPS,LEC,90,3,MW,3:30 PM,4:50 PM,C103,Kazem Mahdavi
+52214,AMS,161,Applied Calculus II,,QPS,LEC,91,3,TUTH,3:30 PM,4:50 PM,C103,Young-Seon Lee
+52116,AMS,210,Applied Linear Algebra,,STEM+,LEC,90,3,MW,10:30 AM,11:50 AM,C105,Ky Tran
+52117,,,,,,LEC,90,,MW,3:30 PM,4:50 PM,A211,
+"",AMS,261,Applied Calculus III,,STEM+,,,4,,,,,Ky Tran
+52118,,,,,,REC,R90,,M,12:30 PM,1:25 PM,A211,
+52123,AMS,301,Finite Mathematical Structures,,STEM+,LEC,90,3,MW,9:00 AM,10:20 AM,B105,Suil O
+52143,AMS,303,Graph Theory,,,LEC,90,3,MW,3:30 PM,4:50 PM,A312,Suil O
+52141,AMS,310,Survey of Probability and Statistics,,STEM+,LEC,90,3,TUTH,9:00 AM,10:20 AM,C103,Hongshik Ahn
+52119,AMS,311,Probability Theory,,,LEC,90,3,TUTH,12:30 PM,1:50 PM,B313,Jinsoo Hwang
+52120,AMS,315,Data Analysis,,"CER, ESI",LEC,90,3,MW,10:30 AM,11:50 AM,B313,Changsoon Park
+56459,AMS,318,Financial Mathematics,,WRTD,LEC,90,3,TUTH,9:00 AM,10:20 AM,B103,Taewon Lee
+52200,AMS,326,Numerical Analysis,,,LEC,90,3,TUTH,5:00 PM,6:20 PM,A116,Taewon Lee
+52370,AMS,380,Data Mining,,,LEC,90,3,TUTH,2:00 PM,3:20 PM,B313,Hyunwook Koh
+52121,AMS,475,Undergrad Teachng Practicum,,EXP+; SPK,TUT,T90,3,APPT,1:00 AM,1:00 AM,-,Hongshik Ahn
+52165,AMS,476,Undergrad Teaching Practicum,,EXP+; SPK,TUT,T90,3,APPT,1:00 AM,1:00 AM,-,Hongshik Ahn
+52122,AMS,487,Research in Applied Mathematic,,EXP+; WRTD,TUT,T90,0 to 3,APPT,1:00 AM,1:00 AM,-,Kazem Mahdavi
+52171,AMS,487,Research in Applied Mathematic,,EXP+; WRTD,TUT,T91,0 to 3,APPT,1:00 AM,1:00 AM,-,Hongshik Ahn
+52192,AMS,487,Research in Applied Mathematic,,EXP+; WRTD,TUT,T92,0 to 3,APPT,1:00 AM,1:00 AM,-,Tan Cao
+52198,AMS,487,Research in Applied Mathematic,,EXP+; WRTD,TUT,T93,0 to 3,APPT,1:00 AM,1:00 AM,-,Suil O
+52255,AMS,487,Research in Applied Mathematic,,EXP+; WRTD,TUT,T94,0 to 3,APPT,1:00 AM,1:00 AM,-,Hyunwook Koh
+52256,AMS,487,Research in Applied Mathematic,,EXP+; WRTD,TUT,T95,0 to 3,APPT,1:00 AM,1:00 AM,-,Ky Tran
+56833,AMS,487,Research in Applied Mathematic,,EXP+; WRTD,TUT,T96,0 to 3,APPT,1:00 AM,1:00 AM,-,Young-Seon Lee
+56494,,,,,,LEC,90,,MW,5:00 PM,6:20 PM,A704,
+"",AMS,510,Analytical Methods for Applied Mathematics and Statistics,,,,,3,,,,,Kazem Mahdavi
+56493,,,,,,REC,R90,,TU,10:30 AM,11:25 AM,A314,
+56465,AMS,572,Data Analysis I,,,LEC,90,3,TUTH,3:30 PM,4:50 PM,B104,Jinsoo Hwang
+56466,AMS,580,Statistical Learning,,,LEC,90,3,TUTH,9:00 AM,10:20 AM,A312,Hyunwook Koh
+56467,AMS,597,Statistical Computing,,,LEC,90,3,MW,2:00 PM,3:20 PM,B206,Changsoon Park
+Class Nbr,Subj,CRS,,Course Title,SBC,Cmp,Sctn,Credits,Days,Start Time,End Time,Room,Instructor
+52619,ACC,210,Financial Accounting,,,LEC,90,3,TUTH,2:00 PM,3:20 PM,B205,Jeehong Kim
+52629,ACC,210,Financial Accounting,,,LEC,91,3,TUTH,10:30 AM,11:50 AM,B103,Koren Jo
+56514,ACC,214,Managerial Cost Analysis and Applications,,,LEC,90,3,MW,10:30 AM,11:50 AM,B206,Soo Young Kwon
+52671,ACC,310,Intermediate Accounting I,,,LEC,90,3,MW,2:00 PM,3:20 PM,B205,Soo Young Kwon
+52618,BUS,215,Intro to Business Statistics,,,LEC,90,3,MW,3:30 PM,4:50 PM,B105,Jaeyeong Lee
+52621,BUS,220,Intro to Decision Sciences,,STEM+,LEC,90,3,MW,10:30 AM,11:50 AM,B103,Chungseung Lee
+52672,BUS,302,Social Media Marketing Strategy,,,LEC,90,3,MW,3:30 PM,4:50 PM,B313,Noelle (Myunghun) Chung
+52630,BUS,326,Organizational Behavior,,DIV,LEC,90,3,TUTH,5:00 PM,6:20 PM,B204,Chih-mao Hsieh
+52622,BUS,330,Principles of Finance,,,LEC,90,3,TUTH,10:30 AM,11:50 AM,B105,Joung Hwa Choi
+56515,BUS,330,Principles of Finance,,,LEC,91,3,TUTH,2:00 PM,3:20 PM,B204,Sung Sup Choi
+56516,BUS,331,International Finance,,,LEC,90,3,TUTH,10:30 AM,11:50 AM,B204,Sung Sup Choi
+52624,BUS,346,Operations Management,,,LEC,90,3,MW,3:30 PM,4:50 PM,B103,Chungseung Lee
+52623,BUS,348,Principles of Marketing,,,LEC,90,3,MW,2:00 PM,3:20 PM,B103,Noelle (Myunghun) Chung
+52673,BUS,348,Principles of Marketing,,,LEC,91,3,MW,10:30 AM,11:50 AM,B105,Dae Ryun Chang
+52626,BUS,353,Entrepreneurship,,,LEC,90,3,TUTH,3:30 PM,4:50 PM,A312,Chih-mao Hsieh
+52674,BUS,355,Investment Analysis,,,LEC,90,3,TUTH,9:00 AM,10:20 AM,B205,Joung Hwa Choi
+52631,BUS,359,Consumer Behavior,,,LEC,90,3,TU,2:00 PM,4:50 PM,A724,Young-Won Ha
+52676,BUS,363,Brand Management,,,LEC,90,3,MW,2:00 PM,3:20 PM,B204,Dae Ryun Chang
+52628,BUS,365,Financial Management,,ESI,LEC,90,3,MW,9:00 AM,10:20 AM,B205,Joung Hwa Choi
+52677,BUS,375,Data Mining,,,LEC,90,3,MW,2:00 PM,3:20 PM,B314,KYUNG KU KIM
+52632,BUS,447,Business Ethics,,CER,LEC,90,3,TH,10:30 AM,1:20 PM,C107,In Ki Joo
+52633,BUS,448,Marketing Strategy,,,LEC,90,3,MW,10:30 AM,11:50 AM,B314,KYUNG KU KIM
+52620,BUS,475,Undergrad Teachng Practicum I,,EXP+,TUT,T91,3,APPT,1:00 AM,1:00 AM,-,Jaeyeong Lee
+52627,BUS,475,Undergrad Teachng Practicum I,,EXP+,TUT,T92,3,APPT,1:00 AM,1:00 AM,-,Chih-mao Hsieh
+56517,BUS,475,Undergrad Teachng Practicum I,,EXP+,TUT,T93,3,APPT,1:00 AM,1:00 AM,-,Noelle (Myunghun) Chung
+56518,BUS,475,Undergrad Teachng Practicum I,,EXP+,TUT,T94,3,APPT,1:00 AM,1:00 AM,-,Soo Young Kwon
+52634,BUS,475,Undergrad Teachng Practicum I,,EXP+,TUT,T95,3,APPT,1:00 AM,1:00 AM,-,Jeehong Kim
+52635,BUS,475,Undergrad Teachng Practicum I,,EXP+,TUT,T96,3,APPT,1:00 AM,1:00 AM,-,Joung Hwa Choi
+52636,BUS,475,Undergrad Teachng Practicum I,,EXP+,TUT,T97,3,APPT,1:00 AM,1:00 AM,-,Young-Won Ha
+56612,BUS,475,Undergrad Teachng Practicum I,,EXP+,TUT,T98,3,APPT,1:00 AM,1:00 AM,-,Sung Sup Choi
+56613,BUS,475,Undergrad Teachng Practicum I,,EXP+,TUT,T99,3,APPT,1:00 AM,1:00 AM,-,Dae Ryun Chang
+56519,BUS,476,Undergrad Teachng Practicum II,,EXP+,TUT,T90,3,APPT,1:00 AM,1:00 AM,-,Dae Ryun Chang
+56520,BUS,476,Undergrad Teachng Practicum II,,EXP+,TUT,T91,3,APPT,1:00 AM,1:00 AM,-,Young-Won Ha
+52625,BUS,488,Internship,,EXP+,TUT,T90,3,APPT,1:00 AM,1:00 AM,-,Jeehong Kim
+Class Nbr,Subj,CRS,Course Title,SBC,Cmp,Sctn,Credits,Days,Start Time,End Time,Room,Instructor
+52088,CSE,101,Computer Science Principles,TECH,LEC,90,3,TUTH,2:00 PM,3:20 PM,C105,Francois Rameau
+52089,LAB,L90,W,3:30 PM,4:50 PM,C105,,,,,,
+52090,CSE,114,Intro to Object-Oriented Programming,TECH,LEC,90,4,MW,2:00 PM,3:20 PM,C103,Antonino Mione
+52091,LAB,L90,TUTH,2:00 PM,3:20 PM,C103,,,,,,
+52092,CSE,214,Data Structures,,LEC,90,4,TUTH,10:30 AM,11:50 AM,C103,Byungkon Kang
+52093,REC,R90,W,2:00 PM,2:55 PM,C107,,,,,,
+52094,CSE,215,Foundations of Comp Science,,LEC,90,4,MW,9:00 AM,10:20 AM,C107,Zhoulai Fu
+52095,REC,R90,M,12:30 PM,1:25 PM,C107,,,,,,
+52175,CSE,216,Programming Abstractions,,LEC,90,4,TUTH,10:30 AM,11:50 AM,B203,Youngmin Kwon
+52176,REC,R90,W,2:00 PM,2:55 PM,B203,,,,,,
+52145,CSE,220,Systems Fundamentals I,,LEC,90,4,TUTH,12:30 PM,1:50 PM,B203,Amos Omondi
+52144,REC,R90,TH,2:00 PM,2:55 PM,B203,,,,,,
+52096,CSE,303,Intro to the Theory of Computation,,LEC,90,3,TUTH,3:30 PM,4:50 PM,B204,Amos Omondi
+56521,CSE,306,Operating Systems,"Partially fulfills: ESI,EXP+, SBS+, STEM+",LEC,90,3,TUTH,12:30 PM,1:50 PM,B204,Youngmin Kwon
+56522,CSE,310,Computer Networks,,LEC,90,3,MW,3:30 PM,4:50 PM,B204,Aruna Balasubramanian
+52149,CSE,312,"Legal, Social, and Ethical Issues in Info Systems","CER, ESI, STAS",LEC,90,3,MW,10:30 AM,11:50 AM,B205,Amos Omondi
+52199,CSE,316,Fundamentals of Software Development,"Partially fulfills: ESI,EXP+, SBS+, STEM+",LEC,90,3,MW,9:00 AM,10:20 AM,B207,Antonino Mione
+52104,CSE,320,Systems Fundamentals II,,LEC,90,3,TUTH,12:30 PM,1:50 PM,B205,Yoon-Seok Yang
+52191,CSE,327,Fundamentals of Computer Vision,,LEC,90,3,TUTH,3:30 PM,4:50 PM,B314,Jihoon Ryoo
+56523,CSE,331,Fundamentals of Computer Security,,LEC,90,3,TUTH,10:30 AM,11:50 AM,B207,Antonino Mione
+56524,CSE,352,Artificial Intelligence,,LEC,90,3,MW,2:00 PM,3:20 PM,B207,Niranjan Balasubramanian
+52148,CSE,416,Software Engineering,"Partially fulfills: ESI,EXP+, SBS+, STEM+",LEC,90,3,TUTH,5:00 PM,6:20 PM,B105,Jihoon Ryoo
+52109,CSE,475,Undergrad Teaching Practicum,EXP+,TUT,T90,3,APPT,1:00 AM,1:00 AM,-,Arthur Lee
+52173,CSE,475,Undergrad Teaching Practicum,EXP+,TUT,T92,3,APPT,1:00 AM,1:00 AM,-,Youngmin Kwon
+52174,CSE,475,Undergrad Teaching Practicum,EXP+,TUT,T93,3,APPT,1:00 AM,1:00 AM,-,Antonino Mione
+52196,CSE,475,Undergrad Teaching Practicum,EXP+,TUT,T96,3,APPT,1:00 AM,1:00 AM,-,Amos Omondi
+52097,CSE,487,Research in Computer Science,,TUT,T90,0 to 6,APPT,1:00 AM,1:00 AM,-,Arthur Lee
+52102,CSE,487,Research in Computer Science,,TUT,T91,0 to 6,APPT,1:00 AM,1:00 AM,-,Jihoon Ryoo
+52103,CSE,487,Research in Computer Science,,TUT,T92,0 to 6,APPT,1:00 AM,1:00 AM,-,Antonino Mione
+52107,CSE,487,Research in Computer Science,,TUT,T95,0 to 6,APPT,1:00 AM,1:00 AM,-,Youngmin Kwon
+56525,CSE,508,Network Security,,LEC,90,3,TUTH,10:30 AM,11:50 AM,B207,Antonino Mione
+52355,CSE,512,Machine Learning,,LEC,90,3,TUTH,2:00 PM,3:20 PM,A116,Byungkon Kang
+52044,CSE,522,Special Project in Computer Sc,,TUT,T92,3,APPT,1:00 AM,1:00 AM,-,Youngmin Kwon
+52047,CSE,522,Special Project in Computer Sc,,TUT,T95,3,APPT,1:00 AM,1:00 AM,-,Arthur Lee
+52048,CSE,523,Advanced Project in Computer S,,TUT,T90,3,APPT,1:00 AM,1:00 AM,-,Jihoon Ryoo
+52049,CSE,523,Advanced Project in Computer S,,TUT,T92,3,APPT,1:00 AM,1:00 AM,-,Youngmin Kwon
+52052,CSE,523,Advanced Project in Computer S,,TUT,T95,3,APPT,1:00 AM,1:00 AM,-,Arthur Lee
+52053,CSE,524,Advanced Project in Computer S,,TUT,T90,3,APPT,1:00 AM,1:00 AM,-,Jihoon Ryoo
+52054,CSE,524,Advanced Project in Computer S,,TUT,T92,3,APPT,1:00 AM,1:00 AM,-,Youngmin Kwon
+52057,CSE,524,Advanced Project in Computer S,,TUT,T95,3,APPT,1:00 AM,1:00 AM,-,Arthur Lee
+52146,CSE,540,Theory of Computation,,LEC,90,3,MW,2:00 PM,3:20 PM,A312,Seung Soo Park
+52058,CSE,593,Independent Study in Comp Sci,,TUT,T90,1 to 9,APPT,1:00 AM,1:00 AM,-,Arthur Lee
+52059,CSE,593,Independent Study in Comp Sci,,TUT,T91,1 to 9,APPT,1:00 AM,1:00 AM,-,Byungkon Kang
+52060,CSE,593,Independent Study in Comp Sci,,TUT,T92,1 to 9,APPT,1:00 AM,1:00 AM,-,Youngmin Kwon
+52061,CSE,593,Independent Study in Comp Sci,,TUT,T93,1 to 9,APPT,1:00 AM,1:00 AM,-,Jihoon Ryoo
+52062,CSE,593,Independent Study in Comp Sci,,TUT,T94,1 to 9,APPT,1:00 AM,1:00 AM,-,Dennis Wong
+52065,CSE,596,MS Internship Prog Off-Campus,,TUT,T92,1,APPT,1:00 AM,1:00 AM,-,Youngmin Kwon
+52068,CSE,596,MS Internship Prog Off-Campus,,TUT,T95,1,APPT,1:00 AM,1:00 AM,-,Arthur Lee
+52070,CSE,599,M.S. Thesis Research,,TUT,T92,1 to 12,APPT,1:00 AM,1:00 AM,-,Youngmin Kwon
+52073,CSE,599,M.S. Thesis Research,,TUT,T95,1 to 12,APPT,1:00 AM,1:00 AM,-,Arthur Lee
+56526,CSE,600,Topics in Modern Computer Science,,LEC,90,0-1,F,2:00 PM,2:50 PM,A116,Amos Omondi
+52112,CSE,644,Seminar in Databases,,SEM,S90,1,TU,6:30 PM,7:50 PM,B203,Arthur Lee
+52201,CSE,646,Seminar in Artificial Intelligence,,SEM,S90,1,TU,6:30 PM,7:50 PM,B204,Byungkon Kang
+52113,CSE,649,Seminar in Operating Systems,,SEM,S90,1,TU,6:30 PM,7:50 PM,B207,Youngmin Kwon
+56537,CSE,650,Seminar in Architecture,,SEM,S90,1,TU,6:30 PM,7:50 PM,B105,Yoon-Seok Yang
+52257,CSE,656,Seminar in Computer Vision,,SEM,S90,1,TU,6:30 PM,7:50 PM,B205,Francois Rameau
+52202,CSE,658,Seminar on Mobile and Wireless Net,,SEM,S90,1,TU,6:30 PM,7:50 PM,B206,Jihoon Ryoo
+52075,CSE,696,PhD Internship Proj Off-Campus,,TUT,T92,1 to 3,APPT,1:00 AM,1:00 AM,-,Youngmin Kwon
+52078,CSE,696,PhD Internship Proj Off-Campus,,TUT,T95,1 to 3,APPT,1:00 AM,1:00 AM,-,Arthur Lee
+52098,CSE,698,Practicum in Teaching,,TUT,T91,0 to 3,APPT,1:00 AM,1:00 AM,-,Amos Omondi
+52099,CSE,698,Practicum in Teaching,,TUT,T92,0 to 3,APPT,1:00 AM,1:00 AM,-,Youngmin Kwon
+52100,CSE,698,Practicum in Teaching,,TUT,T93,0 to 3,APPT,1:00 AM,1:00 AM,-,Antonino Mione
+52101,CSE,698,Practicum in Teaching,,TUT,T95,0 to 3,APPT,1:00 AM,1:00 AM,-,Arthur Lee
+52079,CSE,699,Dissertation Resrch on Campus,,TUT,T90,0 to 9,APPT,1:00 AM,1:00 AM,-,Jihoon Ryoo
+52080,CSE,699,Dissertation Resrch on Campus,,TUT,T92,0 to 9,APPT,1:00 AM,1:00 AM,-,Youngmin Kwon
+52081,CSE,699,Dissertation Resrch on Campus,,TUT,T94,0 to 9,APPT,1:00 AM,1:00 AM,-,Arthur Lee
+52082,CSE,699,Dissertation Resrch on Campus,,TUT,T95,0 to 9,APPT,1:00 AM,1:00 AM,-,Dennis Wong
+52083,CSE,700,Dissertation off Campus Domest,,TUT,T90,0 to 9,APPT,1:00 AM,1:00 AM,-,Arthur Lee
+52084,CSE,700,Dissertation off Campus Domest,,TUT,T92,0 to 9,APPT,1:00 AM,1:00 AM,-,Youngmin Kwon
+52087,CSE,700,Dissertation off Campus Domest,,TUT,T95,0 to 9,APPT,1:00 AM,1:00 AM,-,Arthur Lee
+Class Nbr,Subj,CRS,Course Title,SBC,Cmp,Sctn,Credits,Days,Start Time,End Time,Room,Instructor
+52368,ESE,118,Digital Logic Design,TECH,LEC,90,4,TUTH,10:30AM,11:50AM,A704,Ji-Woong Lee
+52369,LAB,L90,TH,2:00PM,4:50PM,C607,,,,,,
+52358,ESE,123,"Introduction to Electrical and Computer Engineering*Note: Extra course fee $73",TECH,LEC,90,4,MF,12:30 PM,1:50 PM,B206,Sangjin Hong
+52359,LAB,L90,TU,5:00PM,7:50PM,C508,,,,,,
+56831,ESE,124,Programming Fundamentals,TECH,LEC,90,4,M,6:30 PM,8:50 PM,B614,Sangjin Hong
+56832,LAB,L90,W,6:30 PM,9:20 PM,B614,,,,,,
+56528,ESE,224,Advanced Programming and Data Structures,,LEC,90,4,TUTH,12:30 PM,1:50 PM,B613,Sangjin Hong
+56527,LAB,L90,F,2:00PM,5:00PM,B613,,,,,,
+56477,ESE,271,Electrical Circuit Analysis,,LEC,90,3,MW,9:00AM,10:20AM,B613,Ji-Woong Lee
+56530,ESE,272,Electronics,,LEC,90,4,TUTH,10:30AM,11:50AM,B613,Sangjin Hong
+56529,LAB,L90,TU,2:00PM,4:50PM,C508,,,,,,
+56491,ESE,273,Microelectronic Circuits,,LEC,90,3,MW,2:00PM,3:20PM,B613,Gilwon Yoon
+56473,ESE,305,Deterministic Signals and Systems,,LEC,90,3,MW,10:30AM,11:50AM,B613,Gilwon Yoon
+56492,ESE,306,Random Signals and Systems,,LEC,90,3,MW,5:00PM,6:20PM,B104,Ji-Woong Lee
+52360,ESE,475,Undergraduate Teaching Practicum,EXP+,TUT,T90,3,APPT,1:00 AM,1:00 AM,-,Sangjin Hong
+52361,ESE,476,Undergraduate Teaching Practicum,EXP+,TUT,T90,3,APPT,1:00 AM,1:00 AM,-,Sangjin Hong
+52362,ESE,488,Internship in Electrical/Computer Engineering,EXP+,TUT,90,3,APPT,1:00 AM,1:00 AM,-,Sangjin Hong
+56475,ESE,488,Internship in Electrical/Computer Engineering,EXP+,TUT,90,3,APPT,1:00 AM,1:00 AM,-,Ji-Woong Lee
+52363,ESE,499,Research in Electrical Sciences,,TUT,90,0 to 3,APPT,1:00 AM,1:00 AM,-,Sangjin Hong
+56476,ESE,499,Research in Electrical Sciences,,TUT,90,0 to 3,APPT,1:00 AM,1:00 AM,-,Ji-Woong Lee
+Class Nbr,Subj,CRS,Course Title,SBC,Cmp,Sctn,Credits,Days,Start Time,End Time,Room,Instructor
+52364,EST,100,"Designing, Producing & Presenting Multimedia Projects",TECH,LEC,90,3,MW,5:00 PM,6:20 PM,A115,Maurice Bess
+52203,EST,194,Decision-making,QPS,LEC,90,3,MW,2:00 PM,3:20 PM,A704,Mark Whitaker
+52177,EST,202,"Introduction to Science, Technology, and Society Studies",TECH,LEC,90,3,MW,3:30 PM,4:50 PM,B207,Anthony Pennings
+52221,EST,204,Modern Digital Tech Innovation,TECH,LEC,90,3,TUTH,10:30 AM,11:50 AM,B205,James Larson
+52204,EST,207,Interaction Design,TECH,LEC,90,3,TUTH,2:00 PM,3:20 PM,B207,Neal Dreamson
+52365,EST,221,Multimedia for Online Content Platforms,TECH,LEC,90,3,MW,5:00 PM,6:20 PM,A314,Cornelius Bradter
+52039,EST,230,Information and Communications Technology for Sustainable Development,TECH,LEC,90,3,TUTH,5:00 PM,6:20 PM,B203,Saebom Jin
+52106,EST,240,Visual Rhetoric and Information Technology,TECH,LEC,90,3,TUTH,3:30 PM,4:50 PM,B203,Anthony Pennings
+52147,EST,304,Communication for Engineers and Scientists,,LEC,90,3,TUTH,12:30 PM,1:50 PM,B314,Su Hyeong Kim
+52040,EST,305,Applications Software for Information Management,,LEC,90,3,MW,2:00 PM,3:20 PM,A115,Maurice Bess
+52108,EST,310,Design of Computer Games,TECH,LEC,90,3,MW,10:30 AM,11:50 AM,A312,Maurice Bess
+52142,EST,320,Communication Technology Systems,STAS,LEC,90,3,TUTH,3:30 PM,4:50 PM,B105,Suzana Brown
+52178,EST,325,Technology in the Workplace,STAS,LEC,90,3,TUTH,12:30 PM,1:50 PM,A312,Gayoung Park
+52140,EST,326,Management for Engineers,,LEC,90,3,TUTH,5:00 PM,6:20 PM,A211,Joseph Cabuay
+52222,EST,327,"Systems Engineering Management, Elements of Product Design and Development",,LEC,90,3,TUTH,9:00 AM,10:20 AM,B207,Hyoung Ryul Ma
+52166,EST,331,Engineering Ethics,STAS,LEC,90,3,TUTH,3:30 PM,4:50 PM,B207,Joseph Cabuay
+52179,EST,371,Data Science Management,,LEC,90,3,TUTH,5:00 PM,6:20 PM,B205,TBA
+52111,EST,372,The Mobile Revolution in Development,,LEC,90,3,F,9:30 AM,12:20 PM,B205,Jin-sang Lee
+52110,EST,391,Technology Assessment,STAS,LEC,90,3,TUTH,9:00 AM,10:20 AM,B105,Suzana Brown
+52041,EST,392,Engineering Economics,SBS,LEC,90,3,TUTH,12:30 PM,1:50 PM,B207,Anthony Pennings
+52042,EST,393,Project Management,,LEC,90,1 to 3,MW,10:30 AM,11:50 AM,C107,TBA
+"",,,,"Partially: CER, ESI,",,,,,,,,
+52043,EST,440,Interdisciplinary Research Methods,"EXP+, SBS+, SPK,",LEC,90,1 to 3,TUTH,10:30 AM,11:50 AM,C105,Sira Maliphol
+"",,,,"STEM+, WRTD",,,,,,,,
+"",,,,"Partially: CER, ESI,",,,,,,,,
+52105,EST,441,Interdisciplinary Senior Project,"EXP+, SBS+, SPK,",LEC,90,1 to 3,TUTH,10:30 AM,11:50 AM,A117,Neal Dreamson
+"",,,,"STEM+, WRTD",,,,,,,,
+56743,EST,475,Undergraduate Teaching Practicum (Tutorial),EXP+,TUT,T93,3,APPT,1:00 AM,1:00 AM,,Anthony Pennings
+52233,EST,488,Internship in Tech & Society,EXP+,TUT,T101,1 to 3,APPT,1:00 AM,1:00 AM,-,Joseph Cabuay
+52235,EST,488,Internship in Tech & Society,EXP+,TUT,T104,1 to 3,APPT,1:00 AM,1:00 AM,-,Neal Dreamson
+52236,EST,488,Internship in Tech & Society,EXP+,TUT,T105,1 to 3,APPT,1:00 AM,1:00 AM,-,Sira Maliphol
+52237,EST,488,Internship in Tech & Society,EXP+,TUT,T106,1 to 3,APPT,1:00 AM,1:00 AM,-,Maurice Bess
+52238,EST,488,Internship in Tech & Society,EXP+,TUT,T107,1 to 3,APPT,1:00 AM,1:00 AM,-,Young-Geun Lee
+52180,EST,488,Internship in Tech & Society,EXP+,TUT,T91,1 to 3,APPT,1:00 AM,1:00 AM,-,James Larson
+52195,EST,488,Internship in Tech & Society,EXP+,TUT,T93,1 to 3,APPT,1:00 AM,1:00 AM,-,Anthony Pennings
+52197,EST,488,Internship in Tech & Society,EXP+,TUT,T95,1 to 3,APPT,1:00 AM,1:00 AM,-,Suzana Brown
+52232,EST,488,Internship in Tech & Society,EXP+,TUT,T97,1 to 3,APPT,1:00 AM,1:00 AM,-,Johng-Ihl Lee
+52182,EST,499,Research in Tech & Society,EXP+,TUT,T101,0 to 3,APPT,1:00 AM,1:00 AM,-,Joseph Cabuay
+52239,EST,499,Research in Tech & Society,EXP+,TUT,T104,0 to 3,APPT,1:00 AM,1:00 AM,-,Neal Dreamson
+52240,EST,499,Research in Tech & Society,EXP+,TUT,T105,0 to 3,APPT,1:00 AM,1:00 AM,-,Sira Maliphol
+52241,EST,499,Research in Tech & Society,EXP+,TUT,T106,0 to 3,APPT,1:00 AM,1:00 AM,-,Maurice Bess
+52169,EST,499,Research in Tech & Society,EXP+,TUT,T93,0 to 3,APPT,1:00 AM,1:00 AM,-,Anthony Pennings
+52168,EST,499,Research in Tech & Society,EXP+,TUT,T95,0 to 3,APPT,1:00 AM,1:00 AM,-,Suzana Brown
+52181,EST,499,Research in Tech & Society,EXP+,TUT,T97,0 to 3,APPT,1:00 AM,1:00 AM,-,Johng-Ihl Lee
+56531,EST,502,Ethical Decisions in Engineering,,LEC,90,3,TU,7:00 PM,9:50 PM,B104,Joseph Cabuay
+52206,EST,569,Technology in the City,,LEC,90,3,F,7:00 PM,9:50 PM,B204,Young-Geun Lee
+52038,EST,582,Introduction to Systems Concepts,,LEC,90,3,M,7:00 PM,9:50 PM,B204,Mark Whitaker
+52366,EST,592,"Sustainable Energy: Technologies, Systems, Markets, and Policies",,LEC,90,3,F,4:00 PM,6:50 PM,B104,Sangchan Park
+52245,EST,697,Directed Study,,SUP,V104,1 to 9,HTBA,1:00 AM,1:00 AM,-,Neal Dreamson
+52246,EST,697,Directed Study,,SUP,V105,1 to 9,HTBA,1:00 AM,1:00 AM,-,Sira Maliphol
+52247,EST,697,Directed Study,,SUP,V107,1 to 9,HTBA,1:00 AM,1:00 AM,-,Young-Geun Lee
+52242,EST,697,Directed Study,,SUP,V91,1 to 9,HTBA,1:00 AM,1:00 AM,-,James Larson
+52243,EST,697,Directed Study,,SUP,V93,1 to 9,HTBA,1:00 AM,1:00 AM,-,Anthony Pennings
+52193,EST,697,Directed Study,,SUP,V95,1 to 9,HTBA,1:00 AM,1:00 AM,-,Suzana Brown
+52170,EST,697,Directed Study,,SUP,V97,1 to 9,HTBA,1:00 AM,1:00 AM,-,Johng-Ihl Lee
+52250,EST,699,Dissertation Research on Campu,,SUP,V104,1 to 9,HTBA,1:00 AM,1:00 AM,-,Neal Dreamson
+52251,EST,699,Dissertation Research on Campu,,SUP,V105,1 to 9,HTBA,1:00 AM,1:00 AM,-,Sira Maliphol
+52253,EST,699,Dissertation Research on Campu,,SUP,V107,1 to 9,HTBA,1:00 AM,1:00 AM,-,Young-Geun Lee
+52186,EST,699,Dissertation Research on Campu,,SUP,V91,1 to 9,HTBA,1:00 AM,1:00 AM,-,James Larson
+52188,EST,699,Dissertation Research on Campu,,SUP,V93,1 to 9,HTBA,1:00 AM,1:00 AM,-,Anthony Pennings
+52189,EST,699,Dissertation Research on Campu,,SUP,V95,1 to 9,HTBA,1:00 AM,1:00 AM,-,Suzana Brown
+52249,EST,699,Dissertation Research on Campu,,SUP,V97,1 to 9,HTBA,1:00 AM,1:00 AM,-,Johng-Ihl Lee
+52220,EMP,502,Engineering Economics,,LEC,90,3,W,7:00 PM,9:50 PM,B204,Johng-Ihl Lee
+52209,EMP,530,Intro of Big Data & Data Science for Technological Management,,LEC,90,3,TH,7:00 PM,9:50 PM,B203,Sira Maliphol
+Class Nbr,Subj,CRS,,Course Title,SBC,Cmp,Sctn,Credits,Days,Start Time,End Time,Room,Instructor
+52124,MEC,101,Freshman Design Innovation,,,LEC,90,3,TUTH,12:30 PM,1:50 PM,B103,Cornelius Bradter
+52125,MEC,102,Engineering Computing and Problem Solving,,,LEC,90,2,F,12:30 PM,2:20 PM,B103,Cornelius Bradter
+52126,MEC,203,Engineering Graphics and CAD,,,LEC,90,3,TH,2:00 PM,4:50 PM,B103,Jong Park
+52150,MEC,300,Professional Conduct for Engineers,,,LEC,90,2,TU,3:30 PM,5:20 PM,B206,Hamid Hefazi
+52152,,,,,,LEC,90,,MW,3:30 PM,4:50 PM,B206,
+"",MEC,305,Heat and Mass Transfer,,,,,3,,,,,Gun Woong Bahng
+52151,,,,,,REC,R90,,M,5:00 PM,5:55 PM,B206,
+52153,,,Thermal Sciences and Fluid Mechanics Laboratory,,,LAB,L90,,M,12:30 PM,3:20 PM,C606,
+"",MEC,317,,,TECH,,,2,,,,,Changwoon Han
+56479,,,*Note: Extra course fee $100,,,LAB,L91,,M,9:00 AM,11:50 AM,C606,
+52154,MEC,410,Design of Machine Elements,,,LEC,90,3,TUTH,12:30 PM,1:50 PM,B206,TBA
+52156,,,,,,LEC,90,,TUTH,10:30 AM,11:50 AM,B314,
+"",MEC,411,Control System Analysis and Design,,,,,4,,,,,Changwoon Han
+52155,,,,,,LAB,L90,,W,9:00 AM,11:50 AM,B203,
+"",,,Mechanical Engineering Design I,,"Partially: CER, ESI,",,,,,,,,
+56533,MEC,440,,,,LEC,90,3,TUTH,2:00 PM,3:20 PM,A117,Y. Eugene Pak
+"",,,*Note: Extra course fee $165,,"EXP+, SBS+, SPK,",,,,,,,,
+52207,MEC,450,Mechatronics,,,LEC,90,3,F,9:00 AM,11:50 AM,A117,Seungbok Choi
+56480,MEC,455,Applied Stress Analysis,,,LEC,90,3,MW,10:30 AM,11:50 AM,B104,Y. Eugene Pak
+52128,MEC,499,Research in Mechanical Engnrng,,,TUT,T90,0 to 3,APPT,1:00 AM,1:00 AM,-,Hamid Hefazi
+52129,MEC,499,Research in Mechanical Engnrng,,,TUT,T91,0 to 3,APPT,1:00 AM,1:00 AM,-,Y Pak
+52130,MEC,499,Research in Mechanical Engnrng,,,TUT,T92,0 to 3,APPT,1:00 AM,1:00 AM,-,Gun Woong Bahng
+52131,MEC,499,Research in Mechanical Engnrng,,,TUT,T93,0 to 3,APPT,1:00 AM,1:00 AM,-,Seung Bok Choi
+52158,MEC,499,Research in Mechanical Engnrng,,,TUT,T94,0 to 3,APPT,1:00 AM,1:00 AM,-,Changwoon Han
+52159,MEC,499,Research in Mechanical Engnrng,,,TUT,T95,0 to 3,APPT,1:00 AM,1:00 AM,-,Min Yang Yang
+52223,MEC,499,Research in Mechanical Engnrng,,,TUT,T96,0 to 3,APPT,1:00 AM,1:00 AM,-,JONGSEONG CHOI
+56926,MEC,499,Research in Mechanical Engnrng,,,TUT,T97,0 to 3,APPT,1:00 AM,1:00 AM,-,Cornelius Bradter
+52367,MEC,510,Object-Oriented Programming for Scientists and Engineers,,,LEC,90,3,F,12:30 PM,3:20 PM,A117,JONGSEONG CHOI
+56482,MEC,530,Applied Stress Analysis,,,LEC,90,3,MW,10:30 AM,11:50 AM,B618,Y. Eugene Pak
+52208,MEC,550,Mechatronics,,,LEC,90,3,F,9:00 AM,11:50 AM,A117,Seungbok Choi
+56814,MEC,559,Mobile Robotics and Autonomous Vehicles,,,LEC,90,3,MW,2:00 PM,3:20 PM,,JONGSEONG CHOI
+52132,MEC,599,Research,,,TUT,T90,1 to 12,APPT,1:00 AM,1:00 AM,-,Hamid Hefazi
+52133,MEC,599,Research,,,TUT,T91,1 to 12,APPT,1:00 AM,1:00 AM,-,Y. Eugene Pak
+52134,MEC,599,Research,,,TUT,T92,1 to 12,APPT,1:00 AM,1:00 AM,-,Gun Woong Bahng
+52135,MEC,599,Research,,,TUT,T93,1 to 12,APPT,1:00 AM,1:00 AM,-,TBA
+52160,MEC,599,Research,,,TUT,T94,1 to 12,APPT,1:00 AM,1:00 AM,-,Changwoon Han
+52161,MEC,599,Research,,,TUT,T95,1 to 12,APPT,1:00 AM,1:00 AM,-,Min Yang Yang
+52226,MEC,599,Research,,,TUT,T96,1 to 12,APPT,1:00 AM,1:00 AM,-,JONGSEONG CHOI
+56871,MEC,560,Advanced Control Systems,,,LEC,90,3,M,3:30 PM,6:20 PM,B314,Seung Bok Choi
+52164,MEC,691,Mechanical Engineering Seminar,,,SEM,S90,,HTBA,1:00 AM,1:00 AM,-,Changwoon Han
+56483,MEC,696,Special Problems in Mechanical Engineering,,,TUT,T90,3,TUTH,12:30 PM,1:50 PM,B104,Min Yang Yang
+52227,MEC,698,Practicum in Teaching II,,,TUT,T90,1 to 3,APPT,1:00 AM,1:00 AM,-,Hamid Hefazi
+52136,MEC,699,Dissertation Resrch on Campus,,,TUT,T90,1 to 9,APPT,1:00 AM,1:00 AM,-,Hamid Hefazi
+52137,MEC,699,Dissertation Resrch on Campus,,,TUT,T91,1 to 9,APPT,1:00 AM,1:00 AM,-,Y. Eugene Pak
+52138,MEC,699,Dissertation Resrch on Campus,,,TUT,T92,1 to 9,APPT,1:00 AM,1:00 AM,-,Gun Woong Bahng
+52139,MEC,699,Dissertation Resrch on Campus,,,TUT,T93,1 to 9,APPT,1:00 AM,1:00 AM,-,TBA
+52162,MEC,699,Dissertation Resrch on Campus,,,TUT,T94,1 to 9,APPT,1:00 AM,1:00 AM,-,Changwoon Han
+52163,MEC,699,Dissertation Resrch on Campus,,,TUT,T95,1 to 9,APPT,1:00 AM,1:00 AM,-,Min Yang Yang
+52228,MEC,699,Dissertation Resrch on Campus,,,TUT,T96,1 to 9,APPT,1:00 AM,1:00 AM,-,JONGSEONG CHOI
+Class Nbr,Subj,CRS,,Course Title,es,Cmp,Sctn,Credits,Days,Start Time,End Time,Room,Instructor
+56468,,,,,,LEC,90,,TUTH,9:00 AM,9:50 AM,C105,
+"",ARH,203,Arts of Asia,,"ARTS, GLO",,,3,,,,,Young Ji Lee
+56469,,,,,,REC,R90,,TUTH,10:00 AM,10:30 AM,C105,
+56470,ARS,154,Foundations: Drawing,,ARTS,LAB,90,3,TUTH,9:00 AM,11:50 AM,A704,Jayeon Kwon
+"",,,Foundations: Idea and Form,,,,,,,,,,
+48462,ARS,205,,,ARTS,LAB,L90,3,MF,9:00 AM,11:50 AM,A724,Rachel Stuckey
+"",,,*Note: Extra course fee $60,,,,,,,,,,
+49113,,,Introduction to Digital Art,,,LEC,90,,W,9:00 AM,11:50 AM,A724,
+"",ARS,225,,,"ARTS, TECH",,,3,,,,,Rachel Stuckey
+49114,,,*Note: Extra course fee $60,,,LAB,L90,,F,12:30 PM,3:20 PM,A724,
+53630,ATM,102,Weather and Climate,,SNW,LEC,90,3,F,12:30 PM,3:20 PM,C105,Seon Ki Park
+48419,BIO,201,Organisms to Ecosystems,,SNW,LEC,90,3,TUTH,2:00 PM,3:20 PM,C107,Hye-Joo Kwon
+54089,CAR,251,Career & Life Design II - Employability Skills,,,SEM,S90,2,TH,3:30 PM,5:20 PM,A114,Sunghyun Lee
+48436,,,,,,LEC,90,,TUTH,1:30 PM,2:50 PM,A114,
+"",CHI,111,Elementary Chinese I,,Partially fulfills: LANG,,,4,,,,,Mengyang Jia
+48435,,,,,,REC,R90,,TU,3:00 PM,3:55 PM,A114,
+48441,,,,,,LEC,91,,TUTH,10:30 AM,11:50 AM,A114,
+"",CHI,111,Elementary Chinese I,,Partially fulfills: LANG,,,4,,,,,Mengyang Jia
+48442,,,,,,REC,R91,,TH,9:30 AM,10:25 AM,A114,
+49109,,,,,,LEC,92,,MW,2:00 PM,3:20 PM,A114,
+"",CHI,111,Elementary Chinese I,,Partially fulfills: LANG,,,4,,,,,Mengyang Jia
+49110,,,,,,REC,R92,,M,3:30 PM,4:25 PM,A114,
+48443,,,,,,LEC,90,,MW,9:30 AM,10:50 AM,A114,
+"",CHI,112,Elementary Chinese II,,LANG,,,4,,,,,Mengyang Jia
+48444,,,,,,REC,R90,,M,11:00 AM,11:55 AM,A114,
+56471,COM,120,Fundamentals of Public Speaking,,SPK,LEC,90,3,MW,9:00 AM,10:20 AM,B103,Andrew Lasher
+48410,,,,,,LEC,90,,TU,3:00 PM,5:50 PM,B103,
+"",ECO,108,Introduction to Economics,,SBS,,,4,,,,,Jong Seok Kim
+48411,,,,,,REC,R90,,TU,2:00 PM,2:55 PM,B103,
+52127,ESG,198,Fundamentals of Engineering Chemistry,,,LEC,90,3,TUTH,10:30 AM,11:50 AM,A312,Woong Moo Lee
+54194,FLM,102,Intro to Film and TV Composition,,HUM,LEC,90,3,F,1:00 PM,3:50 PM,C103,Sun Park
+54205,FLM,102,Intro to Film and TV Composition,,HUM,LEC,91,3,F,9:30 AM,12:20 AM,C103,Sun Park
+48455,GEO,102,The Earth,,SNW,LEC,90,3,F,9:30 AM,12:20 PM,C105,Young Jae Lee
+49111,,,,,,LEC,90,,TUTH,3:30 PM,4:25 PM,C105,
+"",HIS,104,United States Since 1877,,"DIV, SBS, USA",,,3,,,,,Donald Bellomy
+49112,,,,,,REC,R90,,TH,12:30 PM,1:25 PM,C105,
+56478,HIS,238,"Science, Technology, and Medicine in Western Civilization II",,STAS,LEC,90,3,MW,9:00 AM,10:20 AM,C105,Donald Bellomy
+48449,,,,,,LEC,90,,TUTH,9:00 AM,10:20 AM,A724,
+"",KOR,111,Elementary Korean I,,Partially fulfills: LANG,,,4,,,,,Hea Hur
+48448,,,,,,REC,R90,,TU,10:30 AM,11:25 AM,A724,
+48434,,,,,,LEC,90,,TUTH,12:30PM,1:50PM,A724,
+"",KOR,112,Elementary Korean II,,LANG,,,4,,,,,Hea Hur
+48433,,,,,,REC,R90,,TH,11:30AM,12:25PM,A724,
+48437,KOR,220,Intermediate Heritage Korean,,"GLO, HUM, LANG",LEC,90,3,M,12:00 PM,2:50 PM,B203,Koksuk Seo
+49119,KOR,220,Intermediate Heritage Korean,,"GLO, HUM, LANG",LEC,91,3,M,9:00 AM,11:50 AM,B203,Koksuk Seo
+48445,MAP,103,Proficiency Algebra,,,LEC,90,3,MW,2:00 PM,3:20 PM,A724,Sang Hee Park
+48439,,,,,,LEC,90,,MW,10:30 AM,11:50 AM,C103,
+"",MAT,122,Overview of Calculus with Appl,,QPS,,,3,,,,,Jaeyeong Lee
+48438,,,,,,REC,R90,,M,12:30 PM,1:25 PM,C103,
+48420,,,,,,LEC,90,,MW,5:00 PM,6:20 PM,C105,
+"",MAT,123,Precalculus,,QPS,,,3,,,,,Young-Seon Lee
+48421,,,,,,REC,R90,,M,12:30 PM,1:25 PM,C105,
+48446,MUS,105,Music Cultures of the World,,ARTS,LEC,90,3,TU,9:30 AM,12:20 PM,C107,Yejin Park
+56484,PHI,101,Historical Introduction to Western Philosophy,,HUM,LEC,90,3,TU,12:30 PM,3:20 PM,B105,Jun Young Kim
+48413,,,,,,LEC,90,,TUTH,10:30 AM,11:50 AM,A211,
+"",PHY,131,Classical Physics I,,SNW,,,3,,,,,Mackenzie Lenz
+48412,,,,,,REC,R90,,W,9:30 AM,10:25 AM,A211,
+48414,,,,,,LEC,91,,TUTH,9:00 AM,10:20 AM,A211,
+"",PHY,132,Classical Physics II,,SNW,,,3,,,,,Mackenzie Lenz
+48415,,,,,,REC,R91,,W,10:30 AM,11:25 AM,A211,
+"",,,Classical Physics Laboratory I,,,,,,,,,,
+48416,PHY,133,,,,LAB,L90,1,F,9:00 AM,11:20 AM,C303,Mackenzie Lenz
+"",,,*Note: Extra course fee $26,,,,,,,,,,
+"",,,Classical Physics Laboratory I,,,,,,,,,,
+48417,PHY,133,,,,LAB,L91,1,F,11:30 AM,1:50 PM,C303,Mackenzie Lenz
+"",,,*Note: Extra course fee $26,,,,,,,,,,
+"",,,Classical Physics Lab II,,,,,,,,,,
+48418,PHY,134,,,,LAB,L90,1,W,2:00 PM,4:20 PM,C303,Mackenzie Lenz
+"",,,*Note: Extra course fee $26,,,,,,,,,,
+56485,POL,101,World Politics,,"GLO, SBS",LEC,90,3,MW,9:00 AM,10:20 AM,C103,Jung Min Hong
+56486,POL,102,Intro to American Government,,"SBS, USA",LEC,90,3,MW,2:00 PM,3:20 PM,C105,Jung Min Hong
+48452 /,,,,,,,,,,,,,
+"",SOC/WST,247,Sociology of Gender,,"DIV, SBS",LEC,90,3,F,12:00 PM,2:50 PM,C107,Juhyun Woo
+48453,,,,,,,,,,,,,
+56534,SPN,111,Elementary Spanish I,,Partially fulfills: LANG,LEC,90,4,MW,9:00 AM,10:50 AM,B314,George Burgos
+53632,,,,,,LEC,90,,F,12:30 PM,2:20 PM,B203,
+"",SUS,206,Economics and Sustainability,,SBS+,,,3,,,,,Young June Kwon
+53631,,,,,,REC,R90,,F,2:20 PM,3:15 PM,B203,
+Class Nbr,Subj,CRS,,Course Title,SBC,Cmp,Sctn,Credits,Days,Start Time,End Time,Room,Instructor
+48456,OAE,585,Oral Academic English (Advanced),,,LEC,90,3,F,9:00 AM,11:50 AM,B104,Hyun-ju Kim
+48422,WAE,192,High Intermediate Writing Academic English,,,LEC,90,3,TUTH,3:30 PM,4:50 PM,A117,Yeji Seok
+48423,WAE,192,High Intermediate Writing Academic English,,,LEC,91,3,MW,2:00 PM,3:20 PM,A117,Hyun-ju Kim
+48454,WAE,192,High Intermediate Writing Academic English,,,LEC,92,3,MW,3:30 PM,4:50 PM,A117,Hyun-ju Kim
+56487,WAE,192,High Intermediate Writing Academic English,,,LEC,93,3,TUTH,9:00 AM,10:20 AM,A117,Yeji Seok
+56488,WAE,192,High Intermediate Writing Academic English,,,LEC,94,3,MW,9:00 AM,10:20 AM,A117,Hyun-ju Kim
+48457,WAE,194,Advanced Writing Academic English,,,LEC,90,3,TUTH,9:00 AM,10:20 AM,B313,Christopher Houghton
+48424,WAE,194,Advanced Writing Academic English,,,LEC,91,3,TUTH,10:30 AM,11:50 AM,B313,Christopher Houghton
+48425,WAE,194,Advanced Writing Academic English,,,LEC,92,3,MW,2:00 PM,3:20 PM,A116,Lindsay Dennison
+48432,WAE,194,Advanced Writing Academic English,,,LEC,93,3,TUTH,3:30 PM,4:50 PM,A116,Christopher Houghton
+48440,WAE,194,Advanced Writing Academic English,,,LEC,94,3,MW,10:30 AM,11:50 AM,A116,Lindsay Dennison
+48463,WAE,194,Advanced Writing Academic English,,,LEC,95,3,MW,9:00 AM,10:20 AM,A116,Lindsay Dennison
+56535,WAE,194,Advanced Writing Academic English,,,LEC,96,3,MW,3:30 PM,4:50 PM,A116,Lindsay Dennison
+48426,WRT,101,Introductory Writing Workshop,,Partially fulfills: WRT,LEC,90,3,MW,10:30 AM,11:50 AM,A117,TBA
+48427,WRT,101,Introductory Writing Workshop,,Partially fulfills: WRT,LEC,91,3,TUTH,9:00 AM,10:20 AM,B206,Elizabeth May
+48428,WRT,101,Introductory Writing Workshop,,Partially fulfills: WRT,LEC,92,3,TUTH,10:30 AM,11:50 AM,B206,Yeji Seok
+48458,WRT,101,Introductory Writing Workshop,,Partially fulfills: WRT,LEC,93,3,MW,2:00 PM,3:20 PM,B313,Adam White
+48459,WRT,101,Introductory Writing Workshop,,Partially fulfills: WRT,LEC,94,3,TUTH,2:00 PM,3:20 PM,B206,Yeji Seok
+48450,WRT,101,Introductory Writing Workshop,,Partially fulfills: WRT,LEC,95,3,TUTH,3:30 PM,4:50 PM,B313,Adam White
+48429,WRT,102,Intermediate Writing Workshop,,WRT,LEC,90,3,TUTH,9:00 AM,10:20 AM,B104,Timothy Fletcher
+48430,WRT,102,Intermediate Writing Workshop,,WRT,LEC,91,3,MW,10:30 AM,11:50 AM,B204,Terence Oliga
+48431,WRT,102,Intermediate Writing Workshop,,WRT,LEC,92,3,TUTH,10:30 AM,11:50 AM,B104,Timothy Fletcher
+48447,WRT,102,Intermediate Writing Workshop,,WRT,LEC,93,3,MW,2:00 PM,3:20 PM,B104,Terence Oliga
+48451,WRT,102,Intermediate Writing Workshop,,WRT,LEC,94,3,TUTH,2:00 PM,3:20 PM,B104,TBA
+56489,WRT,102,Intermediate Writing Workshop,,WRT,LEC,95,3,TUTH,3:30 PM,4:50 PM,B205,TBA
