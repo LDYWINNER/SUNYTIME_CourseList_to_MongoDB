@@ -39,8 +39,9 @@ class Converter:
 
         if reset_db:
             self.collection.delete_many({})
-        try:
-            for i in range(len(self.df)):
+
+        for i in range(len(self.df)):
+            try:
                 new_data = {
                     self.category[0]: self.df[self.category[0]].iloc[i],
                     self.category[1]: self.df[self.category[1]].iloc[i],
@@ -158,10 +159,7 @@ class Converter:
 
                         already_inserted_courses.append(
                             new_data['Course Title'])
-        except Exception as e:
-            print(e)
-            result = False
-        if result:
-            print('The courses info succesfully added to your DB!')
-        else:
-            print('Sorry! Fail to add your courses info to your DB...')
+
+            except Exception as e:
+                print(e)
+                continue
